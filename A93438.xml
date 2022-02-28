@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice for the prevention of theft being a short account of the confession and discovery which was made by a condemned  prisoner, who was executed the 25th of May, 1687, to William Smythies, curate of St. Giles Cripplegate.</title>
+            <author>Smythies, William, d. 1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93438</idno>
+            <idno type="STC">Wing S4364</idno>
+            <idno type="STC">ESTC R42973</idno>
+            <idno type="EEBO-CITATION">38876056</idno>
+            <idno type="OCLC">ocm 38876056</idno>
+            <idno type="VID">152380</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152380)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2985:4, 2295:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice for the prevention of theft being a short account of the confession and discovery which was made by a condemned  prisoner, who was executed the 25th of May, 1687, to William Smythies, curate of St. Giles Cripplegate.</title>
+                  <author>Smythies, William, d. 1715.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Milbourn ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed on p. 4: Cripplegate, May the 26th. 1687. W. Smythies.</note>
+                  <note>"Licensed, May the 26. 1687. Ro. L'Estrange." -- p. 4.</note>
+                  <note>Imperfect: creased, stained, and with print show-through.</note>
+                  <note>Reproductions of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theft --  Early works to 1800.</term>
+               <term>Robbery --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152380:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 54 -->
+            <head>ADVICE for the Prevention of Theft. Being a ſhort Account of the Confeſſion and Diſcovery Which was made by a Condemned Priſoner, Who was Executed the 25th. of <hi>May,</hi> 1687. TO <hi>VVilliam Smythies,</hi> Curate of St. <hi>Giles Cripplegate.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Have been often deſir'd to viſit the Condemn'd Priſoners; and have heard ſome paſſages, which I could have wiſht had been publiſht for the prevention of Miſchief to many Per<g ref="char:EOLhyphen"/>ſons and Families, but was unwilling to be the Pen-man of them; well knowing what Cenſures many Men lye under, for doing thoſe things which were deſigned for the Good of others. I have therefore viſited ſome Perſons, both in the City and ſome adjacent places, who have been accuſed by Condemned Malefactors, as moſt deſtructive <hi>Abetters</hi> and <hi>Entertainers</hi> of them and other Robbers: And I have ſome reaſon to hope it was with good Succeſs.</p>
+            <pb n="2" facs="tcp:152380:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>I was under a Special Obligation, to attend upon a young Man who was Executed yeſterday, in the Prime and Strength of his years: And being ſatisfied, that what he ſaid was True, and that it proceeded from a great Senſe which he had of his de<g ref="char:EOLhyphen"/>plorable Condition; I am willing to adventure the publication of ſome Diſcoveries he made to me, which tend to the reforming of ſome Mens Lives, and the ſecuring of other Mens Goods and Properties.</p>
+            <p>It was his earneſt Deſire, at the time of his Execution, That all, <hi>Young Men eſpecially,</hi> ſhould take Warning by him, that they avoid the Company of thoſe who lay wait to enſnare them: That in order to it, they ſhould take care they miſpend not the Lord's day, and (eſpecially) that they entertain not wicked Com<g ref="char:EOLhyphen"/>pany, by which they become the Servants of the Devil, when they ſhould be ſerving GOD in His publick Worſhip; which is the common in-let of all wickedneſs, and one of the firſt Steps towards that diſmal End which he brought to himſelf. I do not know that ever I obſerv'd any Repentance in a Condemn'd Malefactor, who did not bitterly lament his Neglect of his Duty to God on that Day. Thoſe young Perſons who make the Lord's day a day of Idleneſs, little think what Advantage they give the Tempter, by degrees, to make that, and all other, to be days of Wickedneſs. He acknowledged, that there is no Pleaſure, but in a Sober and Religious Life; and that the ways of Wickedneſs do not only tend to the Deſtruction of Soul and Body, but are the occaſions of ſuch Fears and Perplexities, as out-weigh all the Profit of Ungodlineſs. And that is not all, but they bring moſt in<g ref="char:EOLhyphen"/>tolerably-wounding Grief and Sorrow to tender Parents; which was a great aggravation of his Trouble, and occaſion'd his ear<g ref="char:EOLhyphen"/>neſt Requeſt, that all good Chriſtians would pray to God to comfort his Religious Father and Mother, who had it all reſpects diſcharged their Duties of Love towards him: And I am ſure there is great need of ſuch Prayers. Theſe Conſiderations had prevailed with him to avoid all ill Company, for the ſpace of a Moneth (or more) before he was taken; and if he had eſcaped this Sentence, it is very probable, that he would have changed the Courſe of his Actions. <hi>Early Piety</hi> is the beſt Security againſt all Evils. <hi>Young Men</hi> may chuſe the Fear of God, and his eaſie and pleaſant <hi>Yoke,</hi> but if they break looſe, and begin an Ungodly Life, they can not tell to what Degree of Wickedneſs they ſhall en<g ref="char:EOLhyphen"/>creaſe,
+<pb n="3" facs="tcp:152380:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 55 -->when they ſhall come off from it, or at what time the Judgment of God will overtake them.</p>
+            <p>But my deſign is not now to enlarge upon thoſe Arguments which hardned Minds can reſiſt, though they come from Dying Men, when in the Bitterneſs of their Souls; And therefore ſhall proceed to that which may alarm Houſe-keepers, to beware of Thieves whoſe numbers are ſo great, that another Condemn'd Malefactor told me it is impoſſible they can ever be ſuppreſt: And that there is an incredible number of Boys and Girles that are train'd up by thoſe that are skilful in that Myſtery of wickedneſs. I think he ſaid there were ſome Hundreds.</p>
+            <p>This young Man told me of ſome Houſes which have been lately robb'd by Day-Thieves, who have all ſorts and ſizes of Pick-Locks, by which they can unlock any Door, Trunk, or Cabiner, and lock them again with ſuch expedition, that the Perſon injured ſhall conclude that it muſt be done by Servants, or other Inhabitants with them, and not by thoſe that come only as Gueſts to their Houſes. I was likewiſe inform'd by another, that they do not value any Lock that is made in <hi>England;</hi> and therefore ad<g ref="char:EOLhyphen"/>viſed me to faſten my Doors with Barrs or Bolts.</p>
+            <p>This Perſon call'd to mind ſome Houſes which were robb'd by his wicked Acquaintance, of which I make particular men<g ref="char:EOLhyphen"/>tion, for fear that Innocent Perſons have been accus'd, of which I knew, and was concern'd in one very remarkable inſtance. There was one Impriſon'd for One Hundred Pounds, which a Con<g ref="char:EOLhyphen"/>demn'd Malefactor told me he had ſtolen. One of them is a Victualling-Houſe in <hi>Alderſgate-street,</hi> at the going into <hi>Falcon-yard.</hi> Another is a Victualling-Houſe within <hi>Aldgate,</hi> into which there is a Paſſage through a long Entry, near <hi>Northumberland-Alley.</hi> A Third is a Cook's Houſe near the <hi>Arch,</hi> at the paſſage out of <hi>Lincolns-Inn-Fields</hi> towards <hi>Drury-Lane.</hi>
+            </p>
+            <p>He likewiſe inform'd me of three Houſes, which a Man and Woman intend to robb, and have made ſome attempt, but were prevented, by going at a time when there was Company in other Rooms. One is the <hi>Red Bull</hi> in <hi>Shoe-Lane:</hi> Another is the <hi>Chequer</hi> without <hi>Aldgate,</hi> on the Butchers-ſide of the Street: The third is a Cook without <hi>Biſhops-gate,</hi> near the <hi>Katherine-Wheel,</hi> directly oppoſite to a yard, where there was a Robbery not long ſince committed: I hope that this publication may pre<g ref="char:EOLhyphen"/>vent it.</p>
+            <pb n="4" facs="tcp:152380:3"/>
+            <!-- PDF PAGE 56 -->
+            <p>He likewiſe told me, that there was a Thief brought into <hi>New<g ref="char:EOLhyphen"/>gate</hi> on <hi>Saturday</hi> laſt, who was taken at the Sign of King <hi>James</hi> in or near <hi>Spittle-Fields;</hi> and that if the Miſtris of the Houſe hath loſt ſo much Money as ſhe pretended, ſhe may find it by empty<g ref="char:EOLhyphen"/>ing her Vault.</p>
+            <p>I may likewiſe give a Caution to the Gentry who live in <hi>Lincolns-Inn-Fields,</hi> to which the Thieves have a great reſort. It hath been uſual with them to go in at Seven or Eight of the Clock in the Evening, and to go up the Stairs, where they take what they find, and carry it away without being diſcovered. If they happen to meet any perſon, they ask for a Lodger or Servant by Name; and when they are told that there is none ſuch, they beg pardon, and ſay, that they miſtook the Houſe. It is almoſt unimagi<g ref="char:EOLhyphen"/>nable, that there ſhould be ſo many bold Attempts paſs undiſco<g ref="char:EOLhyphen"/>veted as he mention'd, that he knew of, though he could not exactly remember the Houſes.</p>
+            <p>I hope it will be granted, that I have publiſht this for a <hi>General</hi> as well as a <hi>Particular Good.</hi> And that thoſe who keep Houſes of <hi>Entertainment</hi> will either be cautious of their Gueſts, or commit their Money, and moſt valuable Goods, to the Cuſtody of a private Houſe-keeper. It is, it ſeems, uſual for Thieves to deſire privacy, for the diſpatch of a Writing, or ſome other urgent buſineſs; and whilſt one looks to the Stairs, the other make haſte into other parts of the Houſe, eſpecially into thoſe Rooms that are on the ſame Floor.</p>
+            <p>That this publication may anſwer the End for which it was made, is the deſire of</p>
+            <closer>
+               <dateline>
+                  <hi>Eripplegate,</hi> 
+                  <date>May the 26th. 1687.</date>
+               </dateline>
+               <signed>W. Smythies.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Licenſed,</hi> May <hi>the</hi> 26. 1687. <hi>Ro. L' Eſtrange.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>T. M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lbourn</hi> in <hi>Jeſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-street,</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
